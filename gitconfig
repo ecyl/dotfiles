@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ecyl2461@gmail.com
+	name = eunice chin
